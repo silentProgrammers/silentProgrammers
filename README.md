@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silentprogrammers&label=Profile%20views&color=0e75b6&style=flat" alt="silentprogrammers" /> </p>
 
-- Project work [Hotel booking website](pedantic-jennings-74c511.netlify.app)
+- Project work [facebook clone](pedantic-jennings-74c511.netlify.app)
 
 - 🌱 I’m currently learning **React.js**
 
